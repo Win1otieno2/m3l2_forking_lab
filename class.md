@@ -1,2 +1,2 @@
-WInstan
+Winstan
 Database Engineer Meta
